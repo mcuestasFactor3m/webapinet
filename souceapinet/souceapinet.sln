@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "souceapinet", "souceapinet\souceapinet.csproj", "{3F5896B0-4C46-4B09-9D7E-D34271276BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "souceapinet.Tests", "souceapinet.Tests\souceapinet.Tests.csproj", "{EA798235-5F1E-46E9-9400-5BBFCCF16987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5896B0-4C46-4B09-9D7E-D34271276BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5896B0-4C46-4B09-9D7E-D34271276BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5896B0-4C46-4B09-9D7E-D34271276BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5896B0-4C46-4B09-9D7E-D34271276BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA798235-5F1E-46E9-9400-5BBFCCF16987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA798235-5F1E-46E9-9400-5BBFCCF16987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA798235-5F1E-46E9-9400-5BBFCCF16987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA798235-5F1E-46E9-9400-5BBFCCF16987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
